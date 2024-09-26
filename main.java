@@ -7,8 +7,8 @@ public class Main {
         System.out.println("Is prime 2: " + MathUtil.isPrime(2));
         System.out.println("Is prime 44: "+ MathUtil.isPrime(44));
 
-        System.out.println("Greatest common divisor of 12 and 21: " + MathUtil.gcd(12, 21));
-        System.out.println("GCD of 18 and 8: "+ MathUtil.gcd(18, 8));
+        System.out.println("GCD of 12 and 21: " + MathUtil.gcd(12, 21));
+        System.out.println("GCD of 18 and 8: " + MathUtil.gcd(18, 8));
         System.out.println("GCD of 10 and 11:  " + MathUtil.gcd(10, 11));
 
         System.out.println("LCM of 2 and 3: " + MathUtil.lcm(2,3));
@@ -19,8 +19,8 @@ public class Main {
         System.out.println( "Fibonacci of 1: " + MathUtil.fibonacci(1));
         System.out.println("Fibonacci of 12: " + MathUtil.fibonacci(12));
 
-        System.out.println("Factorial of 15: " + MathUtil.factorial(15));
-        System.out.println("Factorial of 20: " + MathUtil.factorial(20));
+        System.out.println("Factorial of 9: " + MathUtil.factorial(9));
+        System.out.println("Factorial of 10: " + MathUtil.factorial(10));
         System.out.println("Factorial of 4: " + MathUtil.factorial(4));
 
         System.out.println("Is perfect number 5: " + util.isPerfectNumber(5));
